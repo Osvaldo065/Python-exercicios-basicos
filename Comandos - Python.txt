@@ -1,0 +1,93 @@
+Comandos básicos de Python:
+
+Print = Escreva
+Input = Leia
+"=" = Recebe
+
+Operadores lógicos:
+
+int = Inteiro
+Float = Real
+Bool = "True" and "False" (Utilizar sempre com o 'T' ou 'F' Maisculo.)
+Str = (Sempre utilizar as palavras dentro das ")
+
+Recursos:
+
+Print({}.format(*valor ou variavel)) 
+
+Comandos básicos de Python:
+
+Print = Escreva
+Input = Leia
+"=" = Recebe
+
+Operadores lógicos:
+
+int = Inteiro
+Float = Real
+Bool = "True" and "False" (Utilizar sempre com o 'T' ou 'F' Maisculo.)
+Str = (Sempre utilizar as palavras dentro das ")
+
+Recursos:
+
+Print(' a soma é:{}'.format(*valor ou variavel)) 
+
+*Para quebrar a frase para a linha de baixo utilizamos: /n*
+
+Sinal de espaçamento entre as frases na hora da exibição: : e mais o valor de quantos espaços.
+
+Podemos utilizar dentro de {} os comandos:
+ 
+exemplo: 
+
+:.3f = significa que o valor vai ser reduzido a exibição e mostrará 3 casas decimais apenas. (utilizamos o ponto na frente para reduzir os núneros depois do ponto, exemplo: 1.000 , mostrará o números depois do ponto reduzidos.)
+
+Operadores Aritiméticos:
+
++ : Adição
+- : Subtração
+* : Multiplicação
+/ : Divisão
+** : Potencia 
+// : Divisão inteira 
+% : Resto da Divisão
+**1/2 : Raiz quadrada
+
+Ordem de precedência:
+
+1º ()
+
+2º **
+
+3º *, /, //, %
+
+4º  +, -
+
+Modulos em Python:
+
+Import: utilizamos para importar.
+
+Exemplo: "Impor('Doce') - vai importar todos os doces.
+
+From: Mostra qual ou onde importar.
+
+Exemplo: From('Doce')Import('pudim') - Com esse comando utilizamos para selecionar o que queremos diretamente.
+
+
+Funcionalidades:
+
+ceil: utilizamos para aredondar para mais.
+
+floor: utilizamos para aredondar para baixo.
+
+trunc: utilizamos para eliminar os números da virgula para frente.
+
+pow: utilizamos como potencia, podemos usar ** ou pow.
+
+sqrt: utilizamos para cálcular a raiz quadradra.
+
+factorial: utilizamos para fatorar.
+
+
+
+
